@@ -1,0 +1,29 @@
+.heading{
+    width:100%;
+   background-color: purple;
+    color: white;
+    font-size:25px;
+    margin-top:0;
+}
+.heading:hover{
+background-color: indigo;
+color:white;
+}
+body{
+    background-size: cover;
+    background-position:center;
+}
+.input{
+    width:60%;
+}
+.fonts{
+    background-color: rgb(0, 247, 255);
+    color:black;
+    font-size: 18px;
+    margin:10px;
+}
+.font_list{
+    font-size: 50px;
+   color:black;
+   
+}
